@@ -36,3 +36,6 @@ o en la terminal entramos en la carpeta inventario-front y ejecutamos el siguien
 esto es un nuevo cambio realizado el 8-19-2025
 
 nuev cambio en mi nuevo hilo o canal de github
+
+
+Nuevo cambio para el versionamiento realizado de pruebas
