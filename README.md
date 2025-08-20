@@ -30,3 +30,7 @@ o en la terminal entramos en la carpeta inventario-front y ejecutamos el siguien
   ng serve -o
 
 3.- Ahora solo en el navegador agregamos el link de /login
+
+
+
+esto es un nuevo cambio realizado el 8-19-2025
